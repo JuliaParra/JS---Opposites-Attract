@@ -1,0 +1,14 @@
+{
+  "name": "inlove",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "vitest"
+  },
+  "author": "julia",
+  "license": "ISC",
+  "dependencies": {
+    "vitest": "^2.0.1"
+  }
+}
